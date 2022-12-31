@@ -1,11 +1,11 @@
 CARA INSTALL
-
-git clone https://github.com/dethinkernetwork/Diagnosa-Penyakit.git
-- install composer yang ada di rar.
-- buat database nama penyakitjiwa.
-- buka file Sistem-Diagnosa-Penyakit2.
-- buka dengan visual studio.
-- buka terminal visual studio.
+- buka vscode pada folder penyimpanan
+- git clone https://github.com/dethinkernetwork/Diagnosa-Penyakit.git
+- install composer yang ada di rar
+- buat database nama penyakitjiwa
+- buka file Sistem-Diagnosa-Penyakit2
+- buka dengan visual studio
+- buka terminal visual studio
 - ketik composer install
 - ketik cp .env.example .env //jika .env tidak ada
 - ketik php artisan install
