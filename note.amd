@@ -1,5 +1,6 @@
 CARA INSTALL
 
+git clone https://github.com/dethinkernetwork/Diagnosa-Penyakit.git
 install composer yang ada di rar
 buat database nama penyakitjiwa
 buka file Sistem-Diagnosa-Penyakit2
